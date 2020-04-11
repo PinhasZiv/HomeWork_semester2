@@ -7,10 +7,7 @@ import org.junit.jupiter.api.Test;
 import homeWork3.Date;
 
 class TestDate1 {
-	
-	public static void blat() {
-		int num =3;
-	}
+
 
 	@Test
 	void testDeafultConstractor() {
