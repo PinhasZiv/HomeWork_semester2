@@ -1,4 +1,4 @@
-package lab3;
+package testHomeWork3;
 
 public class Date {
 	// declaring variables
